@@ -66,7 +66,7 @@ The valuation follows the standard DCF approach:
 # 📷 Project Preview
 
 ### 📌 Financial Model
-![DCF Model](Images/DCF valuation.png)
+![DCF Model](Images/DCFvaluation.png)
 
 ---
 
