@@ -2,7 +2,7 @@
 
 > An equity valuation project estimating the intrinsic value of Tata Consultancy Services (TCS) using the Discounted Cash Flow (DCF) methodology.
 
-[![Financial Dashboard](Images/Dashboard.png)](<report/Tata Consultancy Services Ltd..ppt>)
+[![Financial Dashboard](Images/TCS.png)](<report/Tata Consultancy Services Ltd..ppt>)
 
 ---
 
