@@ -76,7 +76,7 @@ The valuation follows the standard DCF approach:
 ---
 
 ### 📌 Sensitivity Analysis
-![Sensitivity](Images/Sensitivity_Analysis.png)
+![Sensitivity](Images/SensitivityAnalysis.png)
 
 ---
 
